@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/OC_Checkout",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Allows placing an order directly from the product pages with a single mouse click.",
+    "authors": [
+    {
+        "name": "Unicode Systems",
+        "email": "magento@unicodesystems.in"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
