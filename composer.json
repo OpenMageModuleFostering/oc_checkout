@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/OC_Checkout",
+    "name": "openmage-module-fostering\/oc_checkout",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Allows placing an order directly from the product pages with a single mouse click.",
     "authors": [
